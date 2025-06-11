@@ -22,7 +22,6 @@ We use the **[Mirage-News dataset](https://huggingface.co/datasets/anson-huang/m
 - ✅ **BERT + CNN (Text + Image)**
 - ✅ **BiLSTM (Text-only)**
 - ✅ **ResNet + BERT (Multimodal)**
-- ✅ **Baseline classical models**: Logistic Regression, Naive Bayes, SVM
 
 ## 🛠 Tech Stack
 
